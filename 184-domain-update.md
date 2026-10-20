@@ -1,4 +1,8 @@
+Q: When do you delete a deprecated tool?
+A:
 
+Q: When do you delete a down website?
+A:
 ## Browser recheck of lychee failures
 
 lychee flagged 155 URLs. Rechecked in headless Chromium:

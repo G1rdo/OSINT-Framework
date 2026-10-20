@@ -12943,7 +12943,7 @@
             {
               "name": "Beholder",
               "type": "url",
-              "url": "https://beholder.infragard.io/",
+              "url": "https://beholder.me/",
               "opsec": "passive",
               "opsecNote": "Uses open-source mapping/geospatial data and does not directly interact with the target.",
               "localInstall": false,
@@ -15302,7 +15302,7 @@
             {
               "name": "Anna's Archive",
               "type": "url",
-              "url": "https://annas-archive.org/",
+              "url": "https://annas-archive.gd/",
               "description": "Meta-search index for books and papers that aggregates links from multiple shadow libraries.",
               "status": "live",
               "pricing": "free",
@@ -22756,7 +22756,7 @@
             {
               "name": "The Hitchhiker\u2019s Guide to Online Anonymity",
               "type": "url",
-              "url": "https://anonymousplanet.org/guide/",
+              "url": "https://anonymousplanet.net/guide/",
               "description": "Comprehensive, community-maintained guide to online anonymity covering threat modeling, Tor, VMs, operational security, and plausible deniability techniques.",
               "status": "live",
               "pricing": "free",
